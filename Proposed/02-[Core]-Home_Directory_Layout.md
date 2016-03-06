@@ -14,8 +14,6 @@ Use the default user directory of the system
 
 Linux: `/home/username`
 
-Windows: `C:\Users\Username`
-
 **Note:** The username _should_ always match the SiteManager account name given to the account.
 
 ### Domain/Site
