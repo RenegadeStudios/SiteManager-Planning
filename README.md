@@ -1,5 +1,5 @@
 # SiteManager-Planning
----
+
 The purpose for this repo is to collect all thoughts on the planning stages for the SiteManager web hosting control panel.  
 
 ## Repo layout
